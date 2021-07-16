@@ -1,0 +1,259 @@
+.logo{
+	font-size: 50px;
+	color: #EED60A ;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 10px;
+}
+.logo1{
+	float: left;
+	box-shadow: 0px 0px 10px #6DED0E ;
+	background-color: rgba(58, 88, 13, 90% );
+}
+.table{
+	color: #F9F7EF ;
+	margin-top: 20px;
+	height: 30px;
+	width: 340px;
+	text-decoration: none;
+	box-shadow: 0px 0px 10px #6DED0E ; 
+}
+
+
+
+.h1{
+	color: #E1EEEE;
+	font-size:10px;
+	margin-top: 20px;
+	margin-bottom: 30px; 
+	text-shadow: 0px 0px 4px #0EEDD0;
+	font-size: 40px;
+	animation-name: glow;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	position: relative;
+
+}
+@keyframes glow{
+	0%{
+		text-shadow: 0px 0px 5px #0EEDD0;
+		color: #E1EEEE;
+	}
+	25%{
+		text-shadow: 0px 0px 5px #2AF6D9 ;
+		color: #20F7BE ;
+	}
+	50%{
+		text-shadow: 0px 0px 5px #2AF6C0  ;
+		color: #20F75F ;
+	}
+	75%{
+		text-shadow: 0px 0px 5px #2AF651  ;
+		color: #CEF218 ;
+	}
+	100%{
+		text-shadow: 0px 0px 5px #ABF51E  ;
+		color: #F3D98E  ;
+	}
+	}
+.h2{
+	color: #E1EEEE;
+	font-size:20px;
+	margin-top: 20px;
+	margin-bottom: 30px; 
+	text-shadow: 0px 0px 4px #0EEDD0;
+	font-size: 40px;
+}
+.fa-hand-pointer-o{
+
+	animation-name: click;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	position: relative;
+}
+@keyframes click{
+	0%{
+		text-shadow: 0px 0px 5px #0EEDD0;
+		color: #E1EEEE;
+	}
+	25%{
+		text-shadow: 0px 0px 5px #2AF6D9 ;
+		color: #20F7BE ;
+		top: 5px;
+	}
+	50%{
+		text-shadow: 0px 0px 5px #2AF6C0  ;
+		color: #20F75F ;
+		bottom: 5px;
+	}
+	75%{
+		text-shadow: 0px 0px 5px #2AF651  ;
+		color: #CEF218 ;
+		top: 4px;
+	}
+	100%{
+		text-shadow: 0px 0px 5px #ABF51E  ;
+		color: #F3D98E  ;
+		bottom: 5px;
+	}
+}
+
+.bg{
+	background-image: url(https://cdn.wallpapersafari.com/22/65/6Kv2Mj.jpg) ;
+	background-size: contain;
+	
+}
+.div1{
+	margin-bottom: 40px;
+	margin-top: 40px;
+
+}
+.imgsd{
+	box-shadow: 0px 0px 10px #6DED0E ;
+	border-radius: 20%;
+	margin-right: 10px;
+	
+}
+.img6{
+	box-shadow: 0px 0px 10px #6DED0E ;
+	border-radius: 10%;
+}
+.youtube{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 10px #6DED0E ;
+}
+
+.input1{
+	box-shadow: 0px 0px 10px #6DED0E ;
+	border-radius: 20%;
+	color: #F3F042 ;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 20px;
+	background-color: rgba(70, 90, 7, 90%);
+
+}
+.namail{
+	margin-right: 10px;
+}
+
+.inputbox{
+	height: 30px;
+	width: 250px;
+	border-radius: 15%;
+	padding-left: 10px;
+	box-shadow: 0px 0px 10px #6DED0E ;
+}
+.question{
+	color: #D7F7F3 ;
+	font-size: 30px;
+
+}
+.form2{
+	
+	margin-left: 650px;
+	color: #D7F7F3  ;
+    font-size: 24px;
+}
+
+.form2bg{
+	background-color: rgba(171, 206, 12, 100%);
+	padding-top: 5px;
+	padding-bottom: 10px;
+	box-shadow: 0px 0px 25px #6DED0E;
+	border-radius: 100%;
+	
+	
+	
+}
+
+#submit{
+	color: yellow; 
+	background-color: black;
+	box-shadow: 0px 0px 10px #6DED0E;
+	height: 25px;
+	width: 100px;
+	position: relative;
+
+}
+#submit:hover{
+	box-shadow: 0px 0px 50px #F0E62C  ;
+	top: 0px;
+	left: 0px;
+}
+
+#footer{
+	
+	background-color: rgba(217, 240, 140 , 30%);
+	margin-top:  10px;
+	margin-bottom: 0px;
+	float: left;
+	width: 25%;
+}
+.abus{
+ padding-left: 40%;
+ color: yellow;
+ 
+}
+.footanchor{
+	text-decoration: none;
+	color: #F9F7EF ;
+}
+.fa{
+	color: yellow;
+}
+.img6{
+	position: relative;
+
+}
+.img6:hover{
+	box-shadow: 0px 0px 50px #6DED0E ;
+	top: 5px;
+	left: 0px;
+}
+.img4{
+	position: relative;
+
+}
+.img4:hover{
+	box-shadow: 0px 0px 50px #6DED0E ;
+	top: 5px;
+	left: 0px;
+}
+.img5{
+	position: relative;
+
+}
+.img5:hover{
+	box-shadow: 0px 0px 50px #6DED0E ;
+	top: 5px;
+	left: 0px;
+}
+.img1{
+	position: relative;
+
+}
+.img1:hover{
+	box-shadow: 0px 0px 50px #6DED0E ;
+	top: 5px;
+	left: 0px;
+}
+.img7{
+	position: relative;
+
+}
+.img7:hover{
+	box-shadow: 0px 0px 50px #6DED0E ;
+	top: 5px;
+	left: 0px;
+}
+.img8{
+	position: relative;
+
+}
+.img8:hover{
+	box-shadow: 0px 0px 50px #6DED0E ;
+	top: 5px;
+	left: 0px;
+}
